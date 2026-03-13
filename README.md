@@ -152,18 +152,13 @@ The difference is visceral:
 
 Same knowledge. Completely different experience.
 
-<!-- 
+
 STORYBOARD — 3 images to be placed here:
 
-**Scene 1 — "The Old Way"**
-A museum visitor standing in front of a modern art piece, looking frustrated at their smartphone. The screen shows a QR code scanner app loading slowly. Nearby, a printed sign reads "Download our guide app." The visitor's other hand holds a paper brochure. The gallery is well-lit, minimal white walls, contemporary art exhibition setting. Other visitors in the background are also staring at their phones with confused expressions. Shot from a slight side angle, documentary photography style, natural museum lighting.
-
-**Scene 2 — "The Trigger"**
-A museum visitor holding their smartphone in front of a minimal gallery wall sign. The phone screen clearly shows an AI chat interface with a camera capture — the photo of the sign is visible as an uploaded image inside the chat bubble. The sign on the wall displays a simple URL and instruction text. The visitor is in the act of just having taken the photo, looking at the chat screen with a slight expression of curiosity. Over-the-shoulder shot angled to show both the physical sign on the wall and the phone screen with the captured image in the chat. Modern white-walled gallery, soft directional lighting.
-
-**Scene 3 — "Your AI Knows You"**
-A museum visitor sitting comfortably on a gallery bench, engaged with their smartphone. The phone screen shows an AI chat conversation where the AI's response is deeply personal and warm — something like "Remember how you felt overwhelmed at the concert last week? This piece captures that exact tension between chaos and calm." The visitor has a subtle expression of surprise and emotional recognition, as if the AI just said something unexpectedly resonant. A large abstract artwork hangs on the wall in the soft-focused background. The mood is intimate and reflective, not clinical. Shot at eye level, slightly close-up on the visitor and phone, lifestyle photography style, warm museum ambient lighting.
--->
+| The Old Way | The Trigger | Your AI Knows You |
+|:---:|:---:|:---:|
+| <img src="./images/scene1_old_way.png" width="100%" /> | <img src="./images/scene2_trigger.png" width="100%" /> | <img src="./images/scene3_your_ai_knows_you.png" width="100%" /> |
+| *QR codes, app downloads, friction.* | *One photo. AI reads it instantly.* | *Personal context only your AI would know.* |
 
 ---
 
